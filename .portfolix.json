@@ -1,0 +1,35 @@
+{
+  "title": "Gabriele Soldati",
+  "emoji": "🚀",
+  "footer": "Developer Profile",
+  "links": [
+    {
+      "type": "web",
+      "label": "GitHub Profile",
+      "value": "https://github.com/gab-globusgroup"
+    },
+  ],
+  "theme": {
+    "text": {
+      "heading1": "#ff6b6b",
+      "heading2": "#4ecdc4", 
+      "heading3": "#45b7d1",
+      "link": "#96ceb4",
+      "code": "#ffeaa7",
+      "quote": "#dda0dd",
+      "bullet": "#ff6b6b",
+      "primary": "#f8f9fa",
+      "secondary": "#adb5bd"
+    },
+    "ui": {
+      "border": "#ff6b6b",
+      "borderSecondary": "#6c757d"
+    }
+  },
+  "features": {
+    "showScrollIndicator": true,
+    "showUsername": true,
+    "enableKeyboardShortcuts": true
+  }
+}
+ 
